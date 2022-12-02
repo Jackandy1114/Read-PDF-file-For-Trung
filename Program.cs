@@ -17,10 +17,7 @@ class Program
         }
 
 
-        foreach (var item in cacGiaoDich)
-        {
 
-        }
 
     }
     static GiaoDich XuLyPDF(string filePath = @"D:\pdf\result2.pdf")
